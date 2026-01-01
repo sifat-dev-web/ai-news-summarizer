@@ -64,4 +64,3 @@ if __name__ == "__main__":
 
     print("Summary:")
     print(summarize(article))
-
